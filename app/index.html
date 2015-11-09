@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html ng-app="app">
+<head>
+  <title>Hello, World</title>
+  <link rel="stylesheet" type="text/css" href="css/normalize.css">
+  <link rel="stylesheet" type="text/css" href="css/main.css">
+</head>
+<body>
+  <div class="container" ng-controller="MyController">
+    
+    <h1>WatMan</h1>
+
+
+    <button ng-click="watClick()">
+
+      <div class="number">
+
+      {{ likeCount }} {{ word }} <i class="fa fa-rocket"></i>
+
+      </div>
+
+    </button>
+
+  </div>
+  
+  <script src="js/main.js"></script>
+</body>
+</html>
