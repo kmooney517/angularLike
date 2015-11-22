@@ -1,7 +1,13 @@
 ## Welcome to My Project
 
-> I am your Readme.md file, you should probably update me.
+> Link: http://stormy-limit.surge.sh/
 
+> Description
+Using an AngularJS module, controller and some built in directives, I built a like button. The button keeps track of how many times it has been clicked and updates its count each time it is clicked again. 
+
+> Skills Worked on:
+Understanding how AngularJS $scope works within controllers and HTML.
+Know how to use directives and binding to react to user interactions.
 
 ## Usage
 
